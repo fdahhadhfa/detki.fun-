@@ -166,7 +166,7 @@ router.post("/new_deposit", async (req, res) => {
   }
 });
 
-const DOMAINS = ["http://localhost:5173", "https://detki.fun"];
+const DOMAINS = ["http://localhost:5173", "https://detki.fun", "https://1203753-ct83161.tw1.su"];
 
 app.use(express.json());
 app.use(
